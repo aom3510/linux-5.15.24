@@ -1,0 +1,2 @@
+linux,./zImage
+linux,./stm32mp157f-dk2-bfh.dtb
